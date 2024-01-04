@@ -1,0 +1,11 @@
+*.pkl
+*.json
+*.jsonl
+*.txt
+scripts/cscc
+scripts/dllabs
+.idea
+*__pycache__*
+*.pyc
+*.ipynb
+
