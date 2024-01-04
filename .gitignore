@@ -5,6 +5,9 @@
 scripts/cscc
 scripts/dllabs
 .idea
+src/download_files_from_hf.py
+src/convert_llama_weights_to_hf.py
+src/estimate_mem.py
 *__pycache__*
 *.pyc
 *.ipynb
